@@ -5,7 +5,7 @@ export default function Expertise() {
     <section style={{
         color:"white",
         width:"50%",
-        margin:"auto",
+        margin:"15vh auto",
         display:"flex",
         flexDirection:"column",
         height:"450px",
@@ -17,7 +17,7 @@ export default function Expertise() {
         fontWeight:"700",
         fontSize:"24px"
       }}>Our expertise</p>
-      <h2 style={{fontSize:"52px"}}>{"The best apartment <br /> in Dubai"} we will find <br /> your dream</h2>
+      <h2 style={{fontSize:"52px"}}>{"The best apartment"} <br /> {"in Dubai"} we will find <br /> your dream</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias nisi
         atque optio quia, accusamus iste tempore. Quae quas ipsa enim quos!

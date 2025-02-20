@@ -16,7 +16,7 @@ export default function HeroSection() {
        <p>Lorem, IPSUM.</p>
    <h1 style={{
       fontSize:"68px",
-
+      
    }}>
      Welcome home <br /> <span style={{color:"#FCD54C"}}>To</span> luxury
    </h1>
@@ -34,7 +34,7 @@ export default function HeroSection() {
      }}
    >
      <div style={{ display: "flex",alignItems:"center", gap: "1vh" }}>
-       <h1 style={{fontSize:"58px"}}>01</h1>{" "}
+       <h1 style={{fontSize:"58px",color:"#FCD54C"}}>01</h1>{" "}
        <p>
          Lorem, <br />
          ipsum dolor.

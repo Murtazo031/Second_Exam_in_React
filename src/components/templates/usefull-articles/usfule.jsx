@@ -51,7 +51,7 @@ export default function Useful() {
           <div className="article2">
             <p style={{color:"lightgrey"}}>Jule 03, 2022</p>
             <h3 style={{fontSize:"28px"}}>Discover Architecture</h3>
-            <p style={{color:"grey",fontSize:"20px"}}>
+            <p style={{color:"grey",fontSize:"14px"}}>
               Projects for many large domestic and foreign corporations,
               enterprises in many elds such
             </p>

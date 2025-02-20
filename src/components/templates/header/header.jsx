@@ -44,7 +44,7 @@ export default function Header (){
             <div style={{
                 display:"flex",
                 alignItems:"center",
-                width:"30%",
+                width:"40%",
                 justifyContent:"space-between",
             }}>
             <Button btnstyle={{
@@ -58,8 +58,8 @@ export default function Header (){
                 fontWeight:"bold",
             }}>Book a consultation</Button>
             <div>
-                <button>RU</button>
-                <button>EN</button>
+                <button style={{border:"none", backgroundColor:"transparent", color:"white",borderRight:"1px solid lighgrey"}}>RU</button>
+                <button style={{border:"none", backgroundColor:"transparent", color:"white"}}>EN</button>
             </div>
             <h3>+992988070031</h3>
             </div>

@@ -23,7 +23,7 @@ export default function LatestProjects() {
         >
           <h2>Latest projects</h2>
           <div style={{ display: "flex", gap: "5vh" }}>
-            <div>All</div>
+            <div style={{color:"#FCD54C"}}>All</div>
             <div>Building</div>
             <div>Interior</div>
             <div>View all projects</div>
